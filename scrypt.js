@@ -12,6 +12,12 @@ let projectsList =
         "sourceCode": "https://github.com/DimitriGoderidze94/angular-covid-statistics"
     },
     {
+        "title": "Image Search",
+        "href": "https://dimitrigoderidze94.github.io/image-search/",
+        "src": "./images/image-search.webp",
+        "sourceCode": "https://github.com/DimitriGoderidze94/image-search"
+    },
+    {
         "title": "Mini Store",
         "href": "https://dimitrigoderidze94.github.io/miniReactStore/",
         "src": "./images/MiniStore.png",
