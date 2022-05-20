@@ -18,6 +18,12 @@ let projectsList =
         "sourceCode": "https://github.com/DimitriGoderidze94/image-search"
     },
     {
+        "title": "Emoji List",
+        "href": "https://dimitrigoderidze94.github.io/Emoji-List/",
+        "src": "./images/emoji.jpg",
+        "sourceCode": "https://github.com/DimitriGoderidze94/Emoji-List"
+    },
+    {
         "title": "Mini Store",
         "href": "https://dimitrigoderidze94.github.io/miniReactStore/",
         "src": "./images/MiniStore.png",
