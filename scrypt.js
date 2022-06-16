@@ -103,9 +103,9 @@ for (let i = 0; i < projectsList.length; i++) {
         '<div class="flip-card-back">' +
         '<div class="verticalCenter">' +
         '<h3>' + projectsList[i].title + '</h3>' +
-        ' <a target="blank" class="liveDemo" href="' + projectsList[i].href + '">Live Demo</a>' +
+        ' <a target="_blank" class="liveDemo" href="' + projectsList[i].href + '">Live Demo</a>' +
         '<br>' +
-        ' <a target="blank" class="sourceCode" href="' + projectsList[i].sourceCode + '">Source Code</a>' +
+        ' <a target="_blank" class="sourceCode" href="' + projectsList[i].sourceCode + '">Source Code</a>' +
         ' </div>' +
         '</div>'
 }
